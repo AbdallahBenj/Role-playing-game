@@ -28,6 +28,6 @@ To play the Role Playing Game:
 
 Or try it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Role-playing-game/)
 
 ## Embark on your JavaScript journey and code your adventure! 🗡️🎮🛡️
